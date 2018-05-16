@@ -36,5 +36,5 @@ install(PROGRAMS clang-format.py
   DESTINATION share/clang
   COMPONENT clang-format)
 install(PROGRAMS git-clang-format
-  DESTINATION bin
+  DESTINATION share/clang
   COMPONENT clang-format)
